@@ -1,0 +1,23 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Proyecto Quiz",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "quiz",
+    "core",
+    "node"
+  ],
+  "author": "Javier Cruz Salaverri",
+  "license": "Unlicense",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "fidget": "^0.4.9",
+    "figlet": "^1.2.0",
+    "sequelize": "^4.37.1",
+    "sqlite3": "^3.1.13"
+  }
+}
